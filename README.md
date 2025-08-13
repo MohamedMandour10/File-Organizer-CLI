@@ -9,6 +9,7 @@ A simple yet powerful Python script to automatically organize files in a directo
 - **Command-Line Argument**: Specify the target folder directly via a command-line argument.
 - **Simulation Mode**: Includes a `--simulate` flag to preview the file organization plan without actually moving any files. This is great for ensuring everything will be organized as expected.
 - **Summary Report**: After running, the script prints a clean summary of how many files were moved into each category.
+- **Log File**: Automatically generates a `file_organizer_log.txt` to keep a detailed record of all operations, including moved files and errors.
 
 ## Installation
 
