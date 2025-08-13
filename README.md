@@ -13,18 +13,15 @@ A simple yet powerful Python script to automatically organize files in a directo
 
 ## Demo
 
-<p align="center">
-  <video src="assets/Video-demo.mp4" controls="controls" style="max-width: 720px;">
-  </video>
-</p>
+[Watch the demo](assets/Video-demo.mp4)
 
 ## Installation
 
 **Clone the repository:**
 
 ```bash
-git clone https://github.com/MohamedMandour10/Organize-Analyze-Manage.git
-cd Organize-Analyze-Manage
+git clone https://github.com/MohamedMandour10/File-Organizer-CLI.git
+cd File-Organizer-CLI
 ```
 
 ## How to Use
@@ -57,6 +54,5 @@ If you run the script without providing a path, it will prompt you to enter one:
 python file_organizer.py
 ```
 
-```
 Enter the path to the folder you want to organize: /path/to/your/folder
-```
+
