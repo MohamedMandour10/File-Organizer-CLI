@@ -11,6 +11,13 @@ A simple yet powerful Python script to automatically organize files in a directo
 - **Summary Report**: After running, the script prints a clean summary of how many files were moved into each category.
 - **Log File**: Automatically generates a `file_organizer_log.txt` to keep a detailed record of all operations, including moved files and errors.
 
+## Demo
+
+<p align="center">
+  <video src="assets/Video-demo.mp4" controls="controls" style="max-width: 720px;">
+  </video>
+</p>
+
 ## Installation
 
 **Clone the repository:**

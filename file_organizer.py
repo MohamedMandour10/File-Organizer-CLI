@@ -5,7 +5,7 @@ import logging
 from collections import defaultdict
 from pathlib import Path
 
-# file extensions.
+# file extensions
 FILE_TYPE_MAPPINGS = {
     "Images": {".jpg", ".jpeg", ".png", ".gif", ".bmp", ".tiff", ".svg"},
     "Documents": {".pdf", ".docx", ".doc", ".txt", ".pptx", ".xlsx", ".odt", ".rtf", ".csv", ".json"},
