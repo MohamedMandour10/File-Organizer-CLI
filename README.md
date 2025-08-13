@@ -12,8 +12,9 @@ A simple yet powerful Python script to automatically organize files in a directo
 - **Log File**: Automatically generates a `file_organizer_log.txt` to keep a detailed record of all operations, including moved files and errors.
 
 ## Demo
-
 [Watch the demo](assets/Video-demo.mp4)
+
+![Demo](assets/Video-demo.gif)
 
 ## Installation
 
